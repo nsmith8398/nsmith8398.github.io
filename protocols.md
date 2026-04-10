@@ -10,10 +10,8 @@ Resources for establishing the core messaging network.
 ## Tier 2: Device Bridges
 Tools that translate physical radio signals into network data.
 
-### Featured Resource: Zigbee2MQTT Documentation
+### Main Resource: Zigbee2MQTT Documentation
 * **URL:** https://www.zigbee2mqtt.io
-* **Definition & Purpose:** Zigbee2MQTT is an open-source bridge that translates Zigbee radio signals into MQTT messages, allowing for local control of over 3,000 devices without proprietary hubs. 
-* **Value & Instruction:** For the specialist, this resource provides the "Device Database", which is critical for verifying hardware compatibility before purchase. To use it efficiently, navigate to the "Supported Devices" section and filter by "Exposes" to identify which specific sensors (e.g., temperature, occupancy) can be utilized locally. Following the initial "Getting Started" configuration allows users to bypass "cloud-lock" and achieve sub-100ms response times.
 
 ## Tier 3: Custom Firmware
 Tools for deploying custom code to microcontrollers.
