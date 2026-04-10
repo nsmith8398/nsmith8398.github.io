@@ -11,7 +11,7 @@ If a manufacturer's server goes offline, your house shouldn't stop working. This
 * **Organization:** Deductive structure, moving from the central hub down to specific protocols and sensors.
 
 ## Tips for Using this Guide
-* Use the navigation links below to jump to specific architectural layers.
+* Use the navigation links below to jump to specific pages.
 * The linked resources focus on system configuration and code, rather than basic consumer tutorials. Look for hardware compatibility lists and YAML examples.
 
 ---
