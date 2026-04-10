@@ -1,22 +1,21 @@
 # Local-First Smart Home Architecture
 
-Welcome to the system design guide for building a cloud-independent smart home.
+Welcome to the System Design Guide. This resource is for developers, engineering students, and hobbyists looking to build a smart home that doesn't rely on the cloud. 
 
-### About This Guide
-* **The Problem:** Cloud-dependent smart devices have latency issues, privacy risks, and can get "bricked" if the company shuts down.
-* **Audience:** This is for prosumers, engineering students, and IoT developers.
-* **Scope:** Covers the system architecture for local hubs, mesh networking (Zigbee/Thread), and custom firmware.
+If a manufacturer's server goes offline, your house shouldn't stop working. This guide provides tools to build a private, zero-latency system from the ground up.
 
-### Before You Start
-* **Assumed Knowledge:** You should understand basic IP networking and have some baseline experience with microcontrollers (like a Raspberry Pi or ESP32). 
+## Guide Overview
+* **Scope:** Covers local hubs, mesh networking (Zigbee/Thread), and local-only protocols.
+* **Audience:** Prosumers, engineering students, and IoT developers.
+* **Prerequisites:** Basic understanding of IP networking and microcontrollers (like Raspberry Pi or ESP32).
+* **Organization:** Deductive structure, moving from the central hub down to specific protocols and sensors.
 
-### Navigating the Site
-This guide is organized top-down: starting with the main hub and working down to the specific device protocols. 
-
-**Tips for use:** Use the links below to jump to the specific architectural layer you need. Focus on the provided documentation links for configuration steps.
+## Tips for Using this Guide
+* Use the navigation links below to jump to specific architectural layers.
+* The linked resources focus on system configuration and code, rather than basic consumer tutorials. Look for hardware compatibility lists and YAML examples.
 
 ---
 
-### Table of Contents
-* **[The Core Hub](hub.html)**: Local operating systems and coordinators.
-* **[Protocol Registry](protocols.html)**: Communication standards, bridges, and firmware.
+## Site Navigation
+* [The Core Hub](hub.html) - Central coordinators and operating systems.
+* [Protocol Registry](protocols.html) - Communication standards and hardware bridges.
