@@ -11,7 +11,7 @@ Resources for establishing the core messaging network.
 Tools that turns physical radio signals into network data.
 
 ### Featured Resource: Zigbee2MQTT Documentation
-* **URL:** https://www.zigbee2mqtt.io
+* **URL:** [https://www.zigbee2mqtt.io](https://www.zigbee2mqtt.io)
 * **Definition and Purpose:** Zigbee2MQTT is an open-source bridge that turns Zigbee radio signals into MQTT messages, giving users local control of over 3,000 devices without the need for branded hubs. 
 * **Value and Instruction:** For the specialist, this resource provides the "Device Database", which is important for making sure hardware will be compatible before purchase. To use it efficiently, navigate to the "Supported Devices" section and filter by "Exposes" to identify which specific sensors (like temperature or occupancy) can be used locally. Following the initial "Getting Started" configuration allows users to bypass "cloud-lock" and achieve sub-100ms response times.
 
