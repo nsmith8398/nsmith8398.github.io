@@ -38,3 +38,7 @@ Tools for sending custom code to microcontrollers.
 
 ---
 [Return to Home](index.html) | [Previous: The Core Hub](hub.html)
+
+---
+**Local-First Smart Home Architecture** | *A System Design Guide*
+[Home](index.html) | [The Core Hub](hub.html) | [Protocol Registry](protocols.html)
