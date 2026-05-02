@@ -1,4 +1,4 @@
-# Protocol Registry: System Nerves
+# Protocol Registry
 
 To build a solid local system, I've broken down the resources by what they do.
 
