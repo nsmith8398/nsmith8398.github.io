@@ -1,0 +1,42 @@
+---
+---
+@import "{{ site.theme }}";
+
+body {
+  background-color: #1a1a1a;
+  color: #e0e0e0;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+}
+
+h1, h2, h3 {
+  color: #5ea1ed;
+  border-bottom: 1px solid #333;
+  padding-bottom: 5px;
+}
+
+a {
+  color: #4da6ff;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+  color: #80c1ff;
+}
+
+
+blockquote {
+  background: #2a2a2a;
+  border-left: 5px solid #ff9900;
+  padding: 10px 20px;
+  margin: 20px 0;
+  color: #cccccc;
+}
+
+
+code {
+  background-color: #333;
+  color: #ffb366;
+  padding: 2px 5px;
+  border-radius: 3px;
+}
