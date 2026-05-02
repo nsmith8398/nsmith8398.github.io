@@ -16,7 +16,7 @@ If a manufacturer's server goes offline, your house shouldn't stop working. This
 
 ---
 
-## Site Navigation
+## Table of Contents
 
 * **1. [The Core Hub](hub.html)** - Central coordinators and operating systems.
   * Home Assistant Core Documentation
@@ -24,3 +24,9 @@ If a manufacturer's server goes offline, your house shouldn't stop working. This
   * Tier 1: Foundation Protocols (Mosquitto MQTT, Tailscale)
   * Tier 2: Device Bridges (Zigbee2MQTT, CSA Matter Specs)
   * Tier 3: Custom Firmware (ESPHome)
+
+<footer>
+  <p style="text-align: center;">
+    <em>Guide created for specialist-to-specialist communication. Last updated: May 2026</em>
+  </p>
+</footer>
