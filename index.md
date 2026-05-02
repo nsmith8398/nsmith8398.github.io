@@ -1,18 +1,18 @@
 # Local-First Smart Home Architecture
 
-Welcome to the System Design Guide. This resource is for developers, engineering students, and hobbyists looking to build a smart home that doesn't rely on the cloud. 
+Welcome to the System Design Guide. I built this resource for fellow engineering students, developers, and hobbyists who want to build a smart home that doesn't rely on the cloud. 
 
-If a manufacturer's server goes offline, your house shouldn't stop working. This guide provides tools to build a private, zero-latency system from the ground up.
+If a manufacturer's server goes offline, your house shouldn't break. This guide provides the tools to build a private, fast system from the ground up.
 
 ## Guide Overview
-* **Scope:** Covers local hubs, mesh networking (Zigbee/Thread), and local-only protocols.
-* **Audience:** Prosumers, engineering students, and IoT developers.
-* **Prerequisites:** Basic understanding of IP networking and microcontrollers (like Raspberry Pi or ESP32).
-* **Organization:** Deductive structure, moving from the central hub down to specific protocols and sensors.
+* **Scope:** Covers local hubs, mesh networking (Zigbee/Thread), and local-only protocols. If you've taken any process control classes, this is basically just setting up small-scale control loops for your house.
+* **Audience:** Engineering students and DIYers looking to build local, cloud-free systems.
+* **Prerequisites:** Basic understanding of IP networking and microcontrollers (like a Raspberry Pi or ESP32).
+* **Organization:** Starts with the central hub and works down to specific communication protocols.
 
 ## Tips for Using this Guide
-* Use the navigation links below to jump to specific pages and resources.
-* The linked resources focus on system configuration and code, rather than basic consumer tutorials. Look for hardware compatibility lists and YAML examples.
+* Use the links below to jump to specific tools.
+* These resources focus on the actual code and configuration, not basic consumer tutorials. Always check the hardware compatibility lists and YAML examples first.
 
 ---
 
