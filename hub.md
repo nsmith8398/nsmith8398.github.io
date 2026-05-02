@@ -10,6 +10,5 @@ This section covers the main operating systems that are responsible for processi
 ### Example Home Assistant Dashboard
 ![Example Home Assistant Dashboard](HA_Dashboard.jpeg)
 
-*(Note: More detailed abstracts for Home Assistant and local databases will be put here. As I do more of the assingment.)*
-
-[Return to Home](index.html)
+---
+[Return to Home](index.html) | [Next: Protocol Registry](protocols.html)
