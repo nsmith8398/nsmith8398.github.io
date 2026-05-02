@@ -42,3 +42,25 @@ code {
   padding: 2px 5px;
   border-radius: 3px;
 }
+
+footer {
+  margin-top: 50px;
+  padding-top: 20px;
+  border-top: 1px solid #333;
+  color: #888;
+  font-size: 0.9em;
+}
+
+.footer-nav {
+  display: flex; 
+  justify-content: space-between;
+}
+
+footer a {
+  color: #888;
+}
+
+footer a:hover {
+  color: #80c1ff;
+  text-decoration: none;
+}
