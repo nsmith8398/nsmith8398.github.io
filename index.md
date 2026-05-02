@@ -11,11 +11,16 @@ If a manufacturer's server goes offline, your house shouldn't stop working. This
 * **Organization:** Deductive structure, moving from the central hub down to specific protocols and sensors.
 
 ## Tips for Using this Guide
-* Use the navigation links below to jump to specific pages.
+* Use the navigation links below to jump to specific pages and resources.
 * The linked resources focus on system configuration and code, rather than basic consumer tutorials. Look for hardware compatibility lists and YAML examples.
 
 ---
 
 ## Site Navigation
-* [The Core Hub](hub.html) - Central coordinators and operating systems.
-* [Protocol Registry](protocols.html) - Communication standards and hardware bridges.
+
+* **1. [The Core Hub](hub.html)** - Central coordinators and operating systems.
+  * Home Assistant Core Documentation
+* **2. [Protocol Registry](protocols.html)** - Communication standards and hardware bridges.
+  * Tier 1: Foundation Protocols (Mosquitto MQTT, Tailscale)
+  * Tier 2: Device Bridges (Zigbee2MQTT, CSA Matter Specs)
+  * Tier 3: Custom Firmware (ESPHome)
