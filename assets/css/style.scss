@@ -45,10 +45,14 @@ code {
 
 footer {
   margin-top: 50px;
-  padding-top: 20px;
+  padding: 20px 0; /* Adds some breathing room inside the background */
   border-top: 1px solid #333;
+  background-color: #1a1a1a; /* Matches the body background to hide text */
   color: #888;
   font-size: 0.9em;
+  clear: both; /* Forces the footer below any floating layout elements */
+  position: relative; 
+  z-index: 10; /* Ensures the footer renders on top of the text */
 }
 
 .footer-nav {
