@@ -1,11 +1,11 @@
 # The Core Hub: System Brain
 
-This section covers the main operating systems that are responsible for processing automations locally, not requiring the use of external internet access.
+This section covers the main software that runs your automations locally without needing the internet.
 
 ### Featured Resource: Home Assistant Core Documentation
 * **URL:** [https://www.home-assistant.io/docs/](https://www.home-assistant.io/docs/)
-* **Definition, Purpose, and Scope:** Home Assistant is an open-source operating system that acts as the brain for a local smart home. The core documentation is a technical manual for setting up the server and integrating devices into it without needing cloud servers that are external. The scope of this documentation covers core installation, system configuration, and the official integrations database.
-* **Value and Instruction:** This is very important as it explains how to configure the main system that ties all the other protocols (like MQTT and Zigbee) together. When using this resource, start by using the "Installation" section that matches the hardware that you have (like a Raspberry Pi). A good tip is to always check the "Integrations" database in the docs before buying a new smart device so you can verify that it actually supports local control.
+* **Definition, Purpose, and Scope:** Home Assistant is an open-source OS that acts as the brain for your smart home. The core documentation is the manual for setting up the server and connecting devices without using cloud servers. The scope covers the main installation, system config, and the official integrations database.
+* **Value and Instruction:** This is the most important piece because it ties all your other tools (like MQTT and Zigbee) together into one interface. Start with the "Installation" guide for your specific hardware (like a Raspberry Pi). *Tip:* Always check the "Integrations" page here before buying a new smart device to make sure it actually supports local control.
 
 ### Example Home Assistant Dashboard
 ![Example Home Assistant Dashboard](HA_Dashboard.jpeg)
